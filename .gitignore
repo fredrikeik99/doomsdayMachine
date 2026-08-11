@@ -1,0 +1,19 @@
+# build artefacts
+Builds/
+Binaries/
+bin/
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# IDE / OS
+.vs/
+*.suo
+*.user
+*.userosscache
+*.VC.db
+*.DS_Store
+Thumbs.db
+
+# Projucer temporary
+*.jucer.user
