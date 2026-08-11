@@ -1,10 +1,5 @@
 # build artefacts
 Builds/
-Binaries/
-bin/
-build/
-CMakeFiles/
-CMakeCache.txt
 
 # IDE / OS
 .vs/
