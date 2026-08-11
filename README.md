@@ -2,7 +2,8 @@ DoomsdayMachine - Distortion plugin
 
 
 
-!\[Image](doomsdaymachineimage.png)
+<img width="802" height="598" alt="doomsdaymachineimage" src="https://github.com/user-attachments/assets/422a771c-569c-4de5-a78f-3f191094175a" />
+
 
 Contents
 
