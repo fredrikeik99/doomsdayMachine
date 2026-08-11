@@ -2,6 +2,8 @@ DoomsdayMachine - Distortion plugin
 
 
 
+!\[Image](doomsdaymachineimage.png)
+
 Contents
 
 \- Source/            (plugin source: PluginEditor, PluginProcessor...)
@@ -23,6 +25,4 @@ Build (Projucer)
 3\. Export and open the IDE project (Visual Studio/Xcode).
 
 4\. Build Release x64 and install the .vst3 in your VST3 folder.
-
-
 
